@@ -1,15 +1,6 @@
 # silkroad
-Silk road logo: SVG vectorizado garantizando resolución infinita sin pérdida de calidad
-Silk road logo: vectorized SVG ensuring infinite resolution without quality loss
-Логотип «Шелковый путь»: векторизованный SVG, обеспечивающий бесконечное разрешение без потери качества.
-شعار طريق الحرير: Vectorized SVG متجه SVG يضمن دقة لا نهائية دون فقدان الجودة.
+  English: Vectorized SVG ensuring infinite resolution without quality loss <br>
+  Español: SVG vectorizado garantizando resolución infinita sin pérdida de calidad <br>
+  Русский: Векторизованный SVG, обеспечивающий бесконечное разрешение без потери качества <br>
+العربية: متجه SVG يضمن دقة لا نهائية دون فقدان الجودة <br>
 
-                      ,,__
-            ..  ..   / o._)               
-           /--'/--\  \-'||        
-          /        \_/ / |      
-        .'\  \__\  __.'.'     
-          )\ |  )\ |         
-         // \\ // \\       
-        ||_  \\|_  \\_     
-        '--' '--'' '--
